@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.user.browser.curdrice"
+    android:background="@drawable/background14">
+    <ImageView
+        android:id="@+id/imageView20"
+        android:layout_width="372dp"
+        android:layout_height="269dp"
+        app:srcCompat="@drawable/curdrice1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="58dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="372dp"
+        android:layout_height="130dp"
+        android:layout_marginBottom="7dp"
+        android:text="No Andhra meal is complete without a serving of the light yet yummy curd rice! Widely popular in Andhra as well as Tamil Nadu, Karnataka, and Kerala, curd rice is loved by anyone who gets the taste of it. It can be easily prepared at homes by using a simple recipe with unsweetened curd, rice, and assorted vegetables. To give it a fine taste, it is often blended with ginger, chopped green chillies and curry leaves. The best part of curd rice that gives it a tangy salty taste is the Tadka seasoned using cumin seeds, mustard seeds, and urad dal. It is also extremely digestible and carries plenty of health benefits."
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.714"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_editor_absoluteX="10dp" />
+</android.support.constraint.ConstraintLayout>

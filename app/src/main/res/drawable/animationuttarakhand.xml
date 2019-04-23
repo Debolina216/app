@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/badrinath"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/haridwer"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/kedarnath"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/mussoorie"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/nainital"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/rishikesh"
+        android:duration="4500"/>
+</animation-list>

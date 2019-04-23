@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.user.browser.pehak"
+    android:background="@drawable/background12">
+    <ImageView
+        android:id="@+id/imageView20"
+        android:layout_width="372dp"
+        android:layout_height="269dp"
+        app:srcCompat="@drawable/pehak1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="58dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="369dp"
+        android:layout_height="153dp"
+        android:layout_marginBottom="7dp"
+        android:text="Pehak is also a side dish delicacy of Arunachal Pradesh Food. Pehak is a type of spicy chutney that is made by the use of fermented soya bean and chilli. The chilly obviously being the King chilly is the main ingredient in this dish as that’s what makes it hot and spicy. The taste of flavored rice along with this spicy tangy mash makes for an awesome dish!"
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.714"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_editor_absoluteX="11dp"
+        tools:layout_editor_absoluteY="351dp" />
+</android.support.constraint.ConstraintLayout>

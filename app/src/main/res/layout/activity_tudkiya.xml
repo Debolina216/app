@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.user.browser.tudkiya"
+    android:background="@drawable/background15">
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="354dp"
+        android:layout_height="282dp"
+        app:srcCompat="@drawable/tudkiya1"
+        android:layout_marginTop="73dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/textView30"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView30"
+        android:layout_width="373dp"
+        android:layout_height="143dp"
+        android:layout_marginBottom="16dp"
+        android:layout_marginRight="5dp"
+        android:text="Tudkiya Bhath is the authentic pulao of Himachal Pradesh that pahadi people cook in their own very style. What’s unique? The dish is not only cooked with Indian spices but an extra add up to the lentils, potatoes and yoghurt along with onion, tomatoes, garlic, cinnamon, cardamom provides this dish such a great taste that will make you want it again and again. For the best taste, Tudkiya Bath is complemented with mash dal and few drops of lime juice."
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
+</android.support.constraint.ConstraintLayout>

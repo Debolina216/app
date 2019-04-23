@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/bankura"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/bishnupur"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/darjeeling"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/kamarpukur"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/kolkata"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/malda"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/murshidabad"
+        android:duration="4500"/>
+
+
+
+</animation-list>

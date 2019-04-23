@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.user.browser.bambooshoot"
+    android:background="@drawable/background14">
+    <ImageView
+        android:id="@+id/imageView20"
+        android:layout_width="372dp"
+        android:layout_height="269dp"
+        app:srcCompat="@drawable/bambooshoot1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="58dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="369dp"
+        android:layout_height="153dp"
+        android:layout_marginBottom="7dp"
+        android:text="Bamboo shoot is widely eaten through all the North Eastern States because of its delicate flavor and is a chief component of Arunachal Pradesh food. I don’t know if you have noticed but the Arunachalis use Bamboo shoot in almost every dish they make it is the main ingredient without which their food would be left incomplete. Bamboo shoots are used in the dishes of boiled vegetables, cooked meat, pickles and chutneys. Not to forget to mention it is delicious."
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.714"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_editor_absoluteX="11dp"
+        tools:layout_editor_absoluteY="351dp" />
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.user.browser.siddu"
+    android:background="@drawable/background14">
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="334dp"
+        android:layout_height="234dp"
+        app:srcCompat="@drawable/siddu1"
+        android:layout_marginBottom="14dp"
+        android:layout_marginRight="25dp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/textView28" />
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="374dp"
+        android:layout_height="195dp"
+        android:layout_marginBottom="16dp"
+        android:text="Made from wheat flour, Sidu is a local side- dish of Himachal Pradesh which greatly complements the main course of mutton or some vegetables. The preparation of Sidu is difficult and time-consuming, but for the taste that it renders, every minute of preparation is worth it. The wheat flour is kept for 4-5 hours for the yeast to settle down. Later, the dough is filled with fat and put on the direct flame to get the half-cooked dough. This partly cooked dough is then steamed to keep the taste and nutrients of the ingredients intact. Sidu can easily be found in the local restaurants of Himachal Pradesh to give tourists a flavor of Himachali cuisine.  "
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
+</android.support.constraint.ConstraintLayout>

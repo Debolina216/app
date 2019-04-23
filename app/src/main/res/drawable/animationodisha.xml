@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/khondo"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/jogonath"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/shiv"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/udoygiri"
+        android:duration="4500"/>
+</animation-list>

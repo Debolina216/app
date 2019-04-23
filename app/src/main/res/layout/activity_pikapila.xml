@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.user.browser.pikapila"
+    android:background="@drawable/background15">
+    <ImageView
+        android:id="@+id/imageView20"
+        android:layout_width="372dp"
+        android:layout_height="269dp"
+        app:srcCompat="@drawable/pikapila1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="58dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="369dp"
+        android:layout_height="153dp"
+        android:layout_marginBottom="7dp"
+        android:text="Pika pila is a famous type of a pickle that is mostly made by the Apatani tribe of Arunachal Pradesh. It is a favorite dish of Arunachal Pradesh Food and Cuisine.  Pika Pila is a type of a pickle that is made by using bamboo shoot and pork fat with a little addition of King Chilly. It is hot but not very spicy as to make you feel sick."
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.714"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_editor_absoluteX="11dp"
+        tools:layout_editor_absoluteY="351dp" />
+</android.support.constraint.ConstraintLayout>

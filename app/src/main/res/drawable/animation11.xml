@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:drawable="@drawable/assam7"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/assam8"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/assam9"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/assam10"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/assam11"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/assam12"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/assam13"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/assam14"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/assam15"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/assam16"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/assam17"
+        android:duration="4500"/>
+
+
+</animation-list>

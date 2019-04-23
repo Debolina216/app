@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.user.browser.meduvada"
+    android:background="@drawable/background29">
+    <ImageView
+        android:id="@+id/imageView20"
+        android:layout_width="372dp"
+        android:layout_height="269dp"
+        app:srcCompat="@drawable/meduvada1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="58dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="372dp"
+        android:layout_height="130dp"
+        android:layout_marginBottom="7dp"
+        android:text="The popular South Indian recipe has been the favourite in kitchens of Andhra Pradesh, Karnataka and Tamil Nadu. Known with a variety of names like Ulundu Vadai, Ulli Garelu and Uzhunnu Vada, the delicious doughnut-like savoury is prepared widely during all festivals and celebrations. The main ingredient is the Urad Dal, and hence the name. Try this tasty Indianized version of doughnut during the coming festivities at your home."
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.714"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_editor_absoluteX="10dp" />
+</android.support.constraint.ConstraintLayout>

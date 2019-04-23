@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/sikkim1"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/sikkim2"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/sikkim3"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/im43"
+        android:duration="4500"/>
+</animation-list>

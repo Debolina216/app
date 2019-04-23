@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.user.browser.madra"
+    android:background="@drawable/background23">
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="331dp"
+        android:layout_height="274dp"
+        app:srcCompat="@drawable/madra1"
+        android:layout_marginRight="26dp"
+        android:layout_marginBottom="43dp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/textView26" />
+
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="380dp"
+        android:layout_height="162dp"
+        android:layout_marginBottom="16dp"
+        android:text="Madra is originally a delicacy that belongs to the Chamba district of Himachal Pradesh. The dish mainly consists of the soaked chickpeas (chana) or vegetables. Cooked well in the oil and various spices such as cloves, cinnamon, cardamoms, cumin, coriander powder and turmeric powder enhance the taste of this dish. Madra is one of the dishes that represents the food culture of Himachal Pradesh. Every restaurant, every occasion, and the festival will have Madra offered to you with utmost love.  "
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
+</android.support.constraint.ConstraintLayout>

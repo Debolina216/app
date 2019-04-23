@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/agra"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/allahabad"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/khushinagar"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/lucknow"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/mathura"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/sarnath"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/varanasi"
+        android:duration="4500"/>
+</animation-list>

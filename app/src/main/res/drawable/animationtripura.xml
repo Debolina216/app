@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/k23"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/k24"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/k25"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/k26"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/k27"
+        android:duration="4500"/>
+</animation-list>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/kanchipuram"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/kanyakumari"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/kutrallam"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/madurai"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/mahaballipuram"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/rameshwaram"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/thanjavur"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/hogenakkal"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/ooty"
+        android:duration="4500"/>
+
+</animation-list>

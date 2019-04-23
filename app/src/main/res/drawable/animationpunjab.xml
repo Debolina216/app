@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/golden"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/jalandhar"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/transin"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/parth"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/ropar"
+        android:duration="4500"/>
+</animation-list>

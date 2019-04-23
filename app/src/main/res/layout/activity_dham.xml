@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.user.browser.dham"
+    android:background="@drawable/background17">
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="290dp"
+        android:layout_height="278dp"
+        android:layout_marginBottom="217dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:srcCompat="@drawable/dham1" />
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="388dp"
+        android:layout_height="153dp"
+        android:layout_marginTop="39dp"
+        android:text="Dhaam is a complete food that along with a great taste promises a healthy dose of nutrients. The dish includes dal, rajma, rice, curd, boor ki Kadi and is very well complemented with gur (jaggery). Dhaam is a plate full of delicious delicacies that are a must-serve on the occasions and festivals. The distinctive feature about this dish is that it is prepared by special chefs known as ‘botis’. To grab the best taste of Dhaam you must visit Himachal during festivals."
+        android:textColor="#FFFFFF"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView6" />
+</android.support.constraint.ConstraintLayout>

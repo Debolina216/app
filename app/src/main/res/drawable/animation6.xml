@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/haryana0"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/haryana1"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/haryana2"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/haryana3"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/haryana4"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/haryana7"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/haryana8"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/haryana9"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/haryana10"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/haryana11"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/haryana12"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/haryana13"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/haryana14"
+        android:duration="4500"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</animation-list>

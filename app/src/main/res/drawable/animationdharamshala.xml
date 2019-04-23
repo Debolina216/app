@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/dharamshala9"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/manali1"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/spiti"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/kaza"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/kasol"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/kufri"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/hidimba2"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/rohtang"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/kailash"
+        android:duration="4500"/>
+
+
+
+
+
+
+
+
+
+</animation-list>

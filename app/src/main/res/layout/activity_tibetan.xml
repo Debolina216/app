@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.user.browser.tibetan"
+    android:background="@drawable/background13">
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="357dp"
+        android:layout_height="286dp"
+        app:srcCompat="@drawable/tibetan1"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginRight="13dp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintVertical_bias="0.8"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/textView29" />
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="380dp"
+        android:layout_height="167dp"
+        android:layout_marginBottom="-7dp"
+        android:text="The food talk of Himachal Pradesh cannot be completed without including the Tibetan cuisines. Being an important Tibetan colony, the regional food of Himachal Pradesh is highly inspired by the Tibetan culture. The best of which can be found in Mcleodganj and Dharamshala. Momos remains the all the time favorites of Himachali people that. Apart from that, Thukpa, Tingmo , LuchiPoti, Thentuk, Naizha Cake are some of the dishes that can be enjoyed in the kiosks of Himachal Pradesh."
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
+</android.support.constraint.ConstraintLayout>

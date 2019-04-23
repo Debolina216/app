@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/andhra0"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/andhra"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/andhra1"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/andhra2"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/andhra3"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/andhra4"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/andhra5"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/andhra6"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/andhra7"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/andhra8"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/andhra14"
+        android:duration="4500"/>
+
+
+</animation-list>

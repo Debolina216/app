@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/kashmir0"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/kashmir1"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/kashmir2"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/kashmir3"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/kashmir4"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/kashmir5"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/kashmir6"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/kashmir7"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/kashmir8"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/kashmir9"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/kashmir12"
+        android:duration="4500"/>
+
+
+
+
+</animation-list>

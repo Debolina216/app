@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item
+    android:drawable="@drawable/arunachal"
+    android:duration="4500"/>
+    <item
+        android:drawable="@drawable/arunachal1"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/arunachal2"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/arunachal3"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/arunachal4"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/arunachal5"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/arunachal6"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/arunachal7"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/arunachal8"
+        android:duration="4500"/>
+
+    <item
+        android:drawable="@drawable/arunachal10"
+        android:duration="4500"/>
+
+</animation-list>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/place1"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/place2"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/place3"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/place4"
+        android:duration="4500"/>
+    <item
+        android:drawable="@drawable/place5"
+        android:duration="4500"/>
+</animation-list>
